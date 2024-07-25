@@ -22,7 +22,8 @@
 </br>
 📌[통계청 장애인 현황](https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_11761_N004)
 </br>
-
+📌[통계청 장애인 평균임금](https://kosis.kr/statHtml/statHtml.do?orgId=383&tblId=DT_38304_2013_N014&vw_cd=MT_ZTITLE&list_id=383_38304_002&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
+</br>
 ## 😆 멤버
 - [**유광훈**](https://github.com/pineapple00123) :  데이터 조사, 발표, 기획
 - [**김병웅**](https://github.com/quddaz) :  백엔드, 데이터 분석, 프론트엔드
